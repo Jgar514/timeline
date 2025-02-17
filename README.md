@@ -3,9 +3,9 @@
   - still need to add
     - removeSnow
     - Moda
-    - minimalist portfolio
+
     - Hello World
-  
+
 ## 2023
 ### February 2023
 - **[CSS Top Secret Mock Resume](https://jgar514.github.io/MockResume/)**  
@@ -55,6 +55,12 @@
   - Migrated Node.js/Express backend to Firebase, reducing operational costs by 95%.
   - Built a domain search tool with real-time API checks and Stripe payment integration.
 
+### May 2024
+- **[Minimalistic Portfolio](https://all.joshuagarvey.com/)**  
+  - [Code Repository](https://github.com/Jgar514/minportfolio)  
+  - A simple UI for showcasing previews of coding projects with **expandable/collapsible descriptions**.  
+  - Used **React, Tailwind CSS, and JavaScript** for dynamic, conditionally rendered lists.  
+
 ### June 2024 - July 2024
 - **[Webslinger NPM Package](https://www.npmjs.com/package/webslinger)**  
   - [Code Repository](https://github.com/Jgar514/npm) | [Video Demo](https://youtu.be/Yp3bqXM4nm8?si=CVJWpfkz_gJMfW4a)  
@@ -75,5 +81,7 @@
   - Used ArcGIS StoryMaps, geospatial visualization, and 3D modeling.
 
 ---
+
+Your **Minimalistic Portfolio** is now included! 🚀 Let me know if you'd like to tweak anything else. 🔥
 
 
