@@ -1,5 +1,11 @@
 # Project Timeline
 
+  - still need to add
+    - removeSnow
+    - Moda
+    - minimalist portfolio
+    - Hello World
+  
 ## 2023
 ### February 2023
 - **[CSS Top Secret Mock Resume](https://jgar514.github.io/MockResume/)**  
@@ -16,6 +22,11 @@
   - [Code Repository](https://github.com/Jgar514/mobileUI_subdomain_netlify)  
   - Designed a mobile-optimized interface with tab boxes, sliders, and popup modals using React and Tailwind CSS.
 
+### September 2023
+- **[SPA Subdomain for Projects](https://projects.joshuagarvey.com/)**  
+  - [Code Repository](https://github.com/Jgar514/subdomain_projects)  
+  - Built a **React Single Page Application (SPA)** with a **contact form**, portfolio of **coding projects**, and a **light/dark mode toggle** using React and Tailwind CSS.
+
 ### October 2023 - November 2023
 - **[General Contractor Website](https://blackline.joshuagarvey.com/)**  
   - [Code Repository](https://github.com/Jgar514/blacklinecontracting.com)  
@@ -30,6 +41,13 @@
   - [Code Repository](https://github.com/Jgar514/mern-azure)  
   - Implemented authentication and password hashing using MongoDB, Express, React, and Node.js.
   - Deployed on Microsoft Azure with CI/CD pipeline automation.
+
+### February 2024
+- **[William Montgomery Stand-up Comedy Website](https://thewilliammontgomery.show/)**  
+  - [Code Repository](https://github.com/Jgar514/WilliamMontgomery)  
+  - Displayed a GLTF file in the browser to better market the comedian William Montgomery's brand.  
+  - Successfully marketed the project, achieving **20,000 impressions** on posts showcasing the **3D stand-up scene**.  
+  - Integrated social media icons to **centralize brand engagement**.  
 
 ### March 2024 - May 2024
 - **[Homie.Mobi](https://homie.mobi/)**  
@@ -58,4 +76,4 @@
 
 ---
 
-This timeline now includes all your project links. Let me know if you need any further refinements!
+
