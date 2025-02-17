@@ -1,12 +1,19 @@
 # Project Timeline
 
-  - still need to add
-    - removeSnow
-    - Moda
+## 2022
+### December 2022
+- **[Created First GitHub Repository](https://github.com/Jgar514)**  
+  - **"Hello World"**  
 
-    - Hello World
+---
 
 ## 2023
+### January 2023
+- **[removeSnow](https://www.youtube.com/watch?v=mOTKgQKJZSM)**  
+  - [Code Repository](https://github.com/Jgar514/removeSnow)  
+  - Built a **snow removal company dashboard** while learning the low-code platform **Mendix**.  
+  - Used Mendix to implement **widgets for displaying information** and **API integration**, such as **Google Maps**.  
+
 ### February 2023
 - **[CSS Top Secret Mock Resume](https://jgar514.github.io/MockResume/)**  
   - [Code Repository](https://github.com/Jgar514/MockResume)  
@@ -82,6 +89,6 @@
 
 ---
 
-Your **Minimalistic Portfolio** is now included! 🚀 Let me know if you'd like to tweak anything else. 🔥
+
 
 
